@@ -1,0 +1,4 @@
+id,title,location,scheduledTime,abstractText
+C-2026-01,Behavioral Verification Dashboard,EV Building 3.101,Tuesday 10:15 AM,Applies LKW criteria to verify propagation from CSV to UI.
+C-2026-02,Mutation Analysis Workbench,MB Building 2.410,Wednesday 1:00 PM,Explores mutation operators for deterministic parser validation.
+C-2026-03,Traceability Evidence Portal,H Building 5.225,Friday 3:30 PM,Maps dynamic slices from repository state to browser assertions.
